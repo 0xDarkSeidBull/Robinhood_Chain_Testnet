@@ -171,13 +171,12 @@ If Robinhood successfully pushes tokenized RWAs on-chain, early testnet users ma
 
 ---
 
+## ⭐ Support the Repo
 
+If this guide helped you:
+⭐ [![Stars](https://img.shields.io/github/stars/0xDarkSeidBull/Robinhood_Chain_Testnet)](https://github.com/0xDarkSeidBull/Robinhood_Chain_Testnet/stargazers)
 
-```
-![Stars](https://img.shields.io/github/stars/YOURUSERNAME/Robinhood-Chain-Testnet-Guide?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YOURUSERNAME/Robinhood-Chain-Testnet-Guide?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOURUSERNAME/Robinhood-Chain-Testnet-Guide?style=for-the-badge)
-```
+🧾 [![License](https://img.shields.io/github/license/0xDarkSeidBull/Robinhood_Chain_Testnet)](LICENSE)
 
 ---
 
